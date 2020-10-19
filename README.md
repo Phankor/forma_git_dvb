@@ -1,4 +1,5 @@
 # Some setup to do before starting up Git Course
+#coucou c'est moi, votre amis 666
 
 ### 1. Installer Git 
 
